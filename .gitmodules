@@ -1,0 +1,3 @@
+[submodule "tour/rmit"]
+	path = tour/rmit
+	url = https://github.com/JustAbusiness/RMIT-Tour-.git
